@@ -42,11 +42,8 @@ I would begin working my way backwards through the roadmap, in order to discover
 - Turn amp on and master volume up
 - Turn guitar volume up and jam out
 
+**Process of Elimination**
 
-
-
-
-
-
-
-
+- Is guitar volume up?
+- Is amp on & master volume up?
+- Issue Resolved: music cable wasn't plugged into amp
