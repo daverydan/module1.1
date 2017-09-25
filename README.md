@@ -30,3 +30,23 @@ I would begin working my way backwards through the roadmap, in order to discover
 - Check and see if the function that outputs "Say Hi" was properly coded & invoked, while also looking for any syntactical errors
 - Check to see if the user button click is properly coded to invoke the "Say Hi" function
 - Check to see if a user name is required to invoke the "Say Hi" function as its output could be based on the user name input containing a text value or certain number of charcters in a text value
+
+---
+
+**4. Create a problem-solving example using a roadmap and the process of elimination for narrowing down issues of your own. You already use this skill daily. Break down and explain a problem you solve in your everyday life.**
+
+**Roadmap to Playing Electric Guitar**
+
+- Plug amp into outlet
+- Plug music cable into amp & guitar
+- Turn amp on and master volume up
+- Turn guitar volume up and jam out
+
+
+
+
+
+
+
+
+
