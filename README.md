@@ -2,6 +2,8 @@
 
 ### Problem Solving
 
+---
+
 **1. Explain as if the listener has never done it before: what are the steps involved in tying a shoelace?**
 
 - Place the shoe on your foot, or hold the shoe in the same direction as if it were on your foot
@@ -15,13 +17,13 @@
 - Be careful not to pull the tip of the string through the openeing
 - You should now be able to, while holding each string loops, pull them both down towards the ground and away from the shoe until the looped strings are snugly tied on the top of the shoe
 
-
+---
 
 **2. In our “Say Hi” example, if the Say Hi part of the program never runs, how would you narrow down the problem?**
 
 I would begin working my way backwards through the roadmap, in order to discover the problem.
 
-
+---
 
 **3. What would the roadmap for narrowing down the Say Hi problem look like?**
 
