@@ -16,12 +16,15 @@
 - You should now be able to, while holding each string loops, pull them both down towards the ground and away from the shoe until the looped strings are snugly tied on the top of the shoe
 
 
+
 **2. In our “Say Hi” example, if the Say Hi part of the program never runs, how would you narrow down the problem?**
 
-I would begin working my way backwards through the steps.
+I would begin working my way backwards through the roadmap, in order to discover the problem.
 
-- Check and see if the function that outputs "Say Hi" was properly invoked, while also looking for any syntactical errors
+
+
+**3. What would the roadmap for narrowing down the Say Hi problem look like?**
+
+- Check and see if the function that outputs "Say Hi" was properly coded & invoked, while also looking for any syntactical errors
 - Check to see if the user button click is properly coded to invoke the "Say Hi" function
 - Check to see if a user name is required to invoke the "Say Hi" function as its output could be based on the user name input containing a text value or certain number of charcters in a text value
-
-
