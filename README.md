@@ -2,7 +2,7 @@
 
 ### Problem Solving
 
-1. Explain as if the listener has never done it before: what are the steps involved in tying a shoelace?
+**1. Explain as if the listener has never done it before: what are the steps involved in tying a shoelace?**
 
 - Place the shoe on your foot, or hold the shoe in the same direction as if it were on your foot
 - Grab the loose ends of each of the strings at the top of the shoe
